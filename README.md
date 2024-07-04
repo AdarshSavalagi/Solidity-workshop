@@ -51,7 +51,7 @@
   - Avoid Using tx.origin
   - Check for External Contract Calls
 
-## [Hands-on Session](7_Hands-onSession.md)
+## Hands-on Session
 - Building a Simple DApp
   - Defining the Requirements
   - Writing the Smart Contract
